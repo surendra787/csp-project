@@ -1,0 +1,6 @@
+{
+  "name": "Gram Samasya AI",
+  "description": "Smart Village Issues Identification and Resolution System for analyzing household survey data, prioritizing rural community concerns, and tracking village development actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
